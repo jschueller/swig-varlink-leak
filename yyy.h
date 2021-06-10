@@ -1,6 +1,5 @@
-#include "xxx.h"
 
-class YYY : public XXX
+class YYY
 {
 	public:
     static const int N;
